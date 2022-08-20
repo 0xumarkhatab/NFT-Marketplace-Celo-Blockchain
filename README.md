@@ -16,5 +16,3 @@ We used a bunch of developer tools like
 
 ![Project illustration](./celo_nft.PNG "Celo Marketplace")
 ![Project illustration](./celo_nft2.PNG "Celo Marketplace")
-
-## Deployment Link
