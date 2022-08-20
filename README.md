@@ -22,3 +22,13 @@ We used a bunch of developer tools like
 
 ![Project illustration](./celo_nft.PNG "Celo Marketplace")
 ![Project illustration](./celo_nft2.PNG "Celo Marketplace")
+
+
+##  How to Use?
+
+        Clone the Repository
+        Open this Cloned folder
+        Navigate to frontend by typing `cd frontend` in the current directory
+        Run `npm install`
+        Run `npm run dev`
+        
